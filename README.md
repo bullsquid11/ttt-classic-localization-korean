@@ -11,7 +11,7 @@ Anyone who contributes to translations will be included in the thanks section in
 
 Currently, the primary language files are housed inside language-specific directories (such as the `/en` folder for English). Here is what each file/folder corresponds to:
 
-*   **`quickchat/`** – Contains audio files that play when quickchat is used. These correspond directly with the translation keys starting with `TTT_QUICK_`.
+*   **`quickchat/`** – Contains audio files that play when quickchat is used (corresponding directly with translation keys starting with `TTT_QUICK_`). Audio files must be formatted as **8-bit mono WAV at 11.025 kHz (~88 kbps)**.
 *   **`achievements.vdf`** – Steam Achievement localizations (located in the root directory, containing all languages).
 *   **`rich_presence.vdf`** – Steam Rich Presence localizations (located in the root directory, containing all languages).
 *   **`gameui_<language>.txt`** – Stock Half-Life Game UI strings.
