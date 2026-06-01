@@ -5,11 +5,12 @@ This repository contains the localization files for **[TTT Classic](https://stor
 We welcome contributions from anyone! If you would like to correct existing translations or add support for a new language, please feel free to submit a pull request.
 
 Anyone who contributes to translations will be included in the thanks section in the README and mentioned in patch notes. If you do NOT want to be mentioned, please mention in your pull requests/issues.
+
 ---
 
 ## File Structure & Descriptions
 
-Currently, the primary language files are housed inside language-specific directories (such as the `/en` folder for English). Here is what each file/folder corresponds to:
+The primary language files are housed inside language-specific directories (such as the `/english` folder for English). Here is what each file/folder corresponds to:
 
 *   **`quickchat/`** – Contains audio files that play when quickchat is used (corresponding directly with translation keys starting with `TTT_QUICK_`). Audio files must be formatted as **8-bit mono WAV at 11.025 kHz (~88 kbps)**.
 *   **`achievements.vdf`** – Steam Achievement localizations (located in the root directory, containing all languages).
