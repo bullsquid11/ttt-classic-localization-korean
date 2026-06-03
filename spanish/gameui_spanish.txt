@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
     "Language"          "spanish"
     "Tokens"
@@ -256,6 +256,7 @@
         "GameUI_TextureFiltering"                           "Activar filtrado de texturas"
         "GameUI_DetailTextures"                             "Texturas de detalles"
         "GameUI_LowLatency"                                 "Bajar latencia de entrada"
+        "GameUI_UseShaders"                                 "Usar sombreadores"
         "GameUI_WidescreenFOV"                              "Permitir campo de visión panorámico"
         "GameUI_MainMenu_Hint_NewGame"                      "Empezar una nueva partida de un solo jugador."
         "GameUI_MainMenu_Hint_Configuration"                "Cambiar opciones del juego o configurar controles."

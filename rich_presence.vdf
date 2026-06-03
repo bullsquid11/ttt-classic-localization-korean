@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
 	"english"
 	{
@@ -17,108 +17,234 @@
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"Im Hauptmenü"
+			"#RP_Preparing"		"Vorbereitung {#RP_Details}"
+			"#RP_Active"		"Laufend {#RP_Details}"
+			"#RP_Complete"		"Runde vorbei {#RP_Details}"
+			"#RP_Waiting"		"Warten {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} auf {%game:map_name%} | %game:server_count%/%game:server_limit% Spieler"
 		}
 	}
 	"french"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"Au menu principal"
+			"#RP_Preparing"		"Préparation {#RP_Details}"
+			"#RP_Active"		"En cours {#RP_Details}"
+			"#RP_Complete"		"Manche terminée {#RP_Details}"
+			"#RP_Waiting"		"En attente {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} sur {%game:map_name%} | %game:server_count%/%game:server_limit% joueurs"
 		}
 	}
 	"italian"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"Nel menu principale"
+			"#RP_Preparing"		"Preparazione {#RP_Details}"
+			"#RP_Active"		"In corso {#RP_Details}"
+			"#RP_Complete"		"Round terminato {#RP_Details}"
+			"#RP_Waiting"		"In attesa {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} su {%game:map_name%} | %game:server_count%/%game:server_limit% giocatori"
 		}
 	}
 	"koreana"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"메인 메뉴"
+			"#RP_Preparing"		"준비 중 {#RP_Details}"
+			"#RP_Active"		"진행 중 {#RP_Details}"
+			"#RP_Complete"		"라운드 종료 {#RP_Details}"
+			"#RP_Waiting"		"대기 중 {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{%game:map_name%}에서 {#RP_%presence%} | %game:server_count%/%game:server_limit%명의 플레이어"
 		}
 	}
 	"spanish"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"En el menú principal"
+			"#RP_Preparing"		"Preparando {#RP_Details}"
+			"#RP_Active"		"En curso {#RP_Details}"
+			"#RP_Complete"		"Ronda terminada {#RP_Details}"
+			"#RP_Waiting"		"Esperando {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} en {%game:map_name%} | %game:server_count%/%game:server_limit% jugadores"
 		}
 	}
 	"schinese"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"主菜单"
+			"#RP_Preparing"		"准备中 {#RP_Details}"
+			"#RP_Active"		"进行中 {#RP_Details}"
+			"#RP_Complete"		"回合结束 {#RP_Details}"
+			"#RP_Waiting"		"等待中 {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"在 {%game:map_name%} {#RP_%presence%} | %game:server_count%/%game:server_limit% 名玩家"
 		}
 	}
 	"tchinese"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"主選單"
+			"#RP_Preparing"		"準備中 {#RP_Details}"
+			"#RP_Active"		"進行中 {#RP_Details}"
+			"#RP_Complete"		"回合結束 {#RP_Details}"
+			"#RP_Waiting"		"等待中 {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"在 {%game:map_name%} {#RP_%presence%} | %game:server_count%/%game:server_limit% 名玩家"
 		}
 	}
 	"russian"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"В главном меню"
+			"#RP_Preparing"		"Подготовка {#RP_Details}"
+			"#RP_Active"		"В процессе {#RP_Details}"
+			"#RP_Complete"		"Раунд окончен {#RP_Details}"
+			"#RP_Waiting"		"Ожидание {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} на {%game:map_name%} | Игроков: %game:server_count%/%game:server_limit%"
 		}
 	}
 	"thai"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"อยู่ที่เมนูหลัก"
+			"#RP_Preparing"		"กำลังเตรียมการ {#RP_Details}"
+			"#RP_Active"		"กำลังดำเนินการ {#RP_Details}"
+			"#RP_Complete"		"จบราวด์ {#RP_Details}"
+			"#RP_Waiting"		"กำลังรอ {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} บน {%game:map_name%} | %game:server_count%/%game:server_limit% ผู้เล่น"
 		}
 	}
 	"japanese"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"メインメニュー"
+			"#RP_Preparing"		"準備中 {#RP_Details}"
+			"#RP_Active"		"進行中 {#RP_Details}"
+			"#RP_Complete"		"ラウンド終了 {#RP_Details}"
+			"#RP_Waiting"		"待機中 {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{%game:map_name%} で {#RP_%presence%} | %game:server_count%/%game:server_limit% 人のプレイヤー"
 		}
 	}
 	"portuguese"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"No Menu Principal"
+			"#RP_Preparing"		"Preparação {#RP_Details}"
+			"#RP_Active"		"Em Progresso {#RP_Details}"
+			"#RP_Complete"		"Ronda Terminada {#RP_Details}"
+			"#RP_Waiting"		"A aguardar {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} em {%game:map_name%} | %game:server_count%/%game:server_limit% jogadores"
 		}
 	}
 	"polish"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"W menu głównym"
+			"#RP_Preparing"		"Przygotowanie {#RP_Details}"
+			"#RP_Active"		"W toku {#RP_Details}"
+			"#RP_Complete"		"Koniec rundy {#RP_Details}"
+			"#RP_Waiting"		"Oczekiwanie {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} na {%game:map_name%} | Gracze: %game:server_count%/%game:server_limit%"
 		}
 	}
 	"danish"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"I hovedmenuen"
+			"#RP_Preparing"		"Forbereder {#RP_Details}"
+			"#RP_Active"		"I gang {#RP_Details}"
+			"#RP_Complete"		"Runde færdig {#RP_Details}"
+			"#RP_Waiting"		"Venter {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} på {%game:map_name%} | %game:server_count%/%game:server_limit% spillere"
 		}
 	}
 	"dutch"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"In hoofdmenu"
+			"#RP_Preparing"		"Voorbereiden {#RP_Details}"
+			"#RP_Active"		"In uitvoering {#RP_Details}"
+			"#RP_Complete"		"Ronde voorbij {#RP_Details}"
+			"#RP_Waiting"		"Wachten {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} op {%game:map_name%} | %game:server_count%/%game:server_limit% spelers"
 		}
 	}
 	"finnish"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"Päävalikossa"
+			"#RP_Preparing"		"Valmistellaan {#RP_Details}"
+			"#RP_Active"		"Käynnissä {#RP_Details}"
+			"#RP_Complete"		"Kierros päättynyt {#RP_Details}"
+			"#RP_Waiting"		"Odotetaan {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} kartassa {%game:map_name%} | %game:server_count%/%game:server_limit% pelaajaa"
 		}
 	}
 	"norwegian"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"I hovedmenyen"
+			"#RP_Preparing"		"Forbereder {#RP_Details}"
+			"#RP_Active"		"Pågår {#RP_Details}"
+			"#RP_Complete"		"Runde ferdig {#RP_Details}"
+			"#RP_Waiting"		"Venter {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} på {%game:map_name%} | %game:server_count%/%game:server_limit% spillere"
 		}
 	}
 	"swedish"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"I huvudmenyn"
+			"#RP_Preparing"		"Förbereder {#RP_Details}"
+			"#RP_Active"		"Pågår {#RP_Details}"
+			"#RP_Complete"		"Runda slut {#RP_Details}"
+			"#RP_Waiting"		"Väntar {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} på {%game:map_name%} | %game:server_count%/%game:server_limit% spelare"
 		}
 	}
 	"hungarian"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"A főmenüben"
+			"#RP_Preparing"		"Előkészítés {#RP_Details}"
+			"#RP_Active"		"Folyamatban {#RP_Details}"
+			"#RP_Complete"		"Kör vége {#RP_Details}"
+			"#RP_Waiting"		"Várakozás {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} ezen: {%game:map_name%} | %game:server_count%/%game:server_limit% játékos"
 		}
 	}
 	"czech"
@@ -131,25 +257,46 @@
 			"#RP_Complete"		"Kolo skončilo {#RP_Details}"
 			"#RP_Waiting"		"Čekání {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
-			"#Status"		"{#RP_%presence%} na mapě {%game:map_name%} | %game:server_count%/%game:server_limit% hráčů"
+			"#Status"			"{#RP_%presence%} na mapě {%game:map_name%} | %game:server_count%/%game:server_limit% hráčů"
 		}
 	}
 	"romanian"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"În meniul principal"
+			"#RP_Preparing"		"Pregătire {#RP_Details}"
+			"#RP_Active"		"În desfășurare {#RP_Details}"
+			"#RP_Complete"		"Rundă încheiată {#RP_Details}"
+			"#RP_Waiting"		"În așteptare {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} pe {%game:map_name%} | %game:server_count%/%game:server_limit% jucători"
 		}
 	}
 	"turkish"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"Ana Menüde"
+			"#RP_Preparing"		"Hazırlanıyor {#RP_Details}"
+			"#RP_Active"		"Devam Ediyor {#RP_Details}"
+			"#RP_Complete"		"El Sona Erdi {#RP_Details}"
+			"#RP_Waiting"		"Bekleniyor {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{%game:map_name%} haritasında {#RP_%presence%} | %game:server_count%/%game:server_limit% oyuncu"
 		}
 	}
 	"arabic"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"في القائمة الرئيسية"
+			"#RP_Preparing"		"جارٍ التحضير {#RP_Details}"
+			"#RP_Active"		"قيد التشغيل {#RP_Details}"
+			"#RP_Complete"		"انتهت الجولة {#RP_Details}"
+			"#RP_Waiting"		"في الانتظار {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} على {%game:map_name%} | %game:server_count%/%game:server_limit% لاعبين"
 		}
 	}
 	"brazilian"
@@ -169,36 +316,78 @@
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"В главното меню"
+			"#RP_Preparing"		"Подготовка {#RP_Details}"
+			"#RP_Active"		"В ход {#RP_Details}"
+			"#RP_Complete"		"Рундът приключи {#RP_Details}"
+			"#RP_Waiting"		"Изчакване {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} на {%game:map_name%} | %game:server_count%/%game:server_limit% играчи"
 		}
 	}
 	"greek"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"Στο Κύριο Μενού"
+			"#RP_Preparing"		"Προετοιμασία {#RP_Details}"
+			"#RP_Active"		"Σε εξέλιξη {#RP_Details}"
+			"#RP_Complete"		"Ο γύρος τελείωσε {#RP_Details}"
+			"#RP_Waiting"		"Αναμονή {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} στο {%game:map_name%} | %game:server_count%/%game:server_limit% παίκτες"
 		}
 	}
 	"ukrainian"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"У головному меню"
+			"#RP_Preparing"		"Підготовка {#RP_Details}"
+			"#RP_Active"		"У процесі {#RP_Details}"
+			"#RP_Complete"		"Раунд завершено {#RP_Details}"
+			"#RP_Waiting"		"Очікування {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} на {%game:map_name%} | %game:server_count%/%game:server_limit% гравців"
 		}
 	}
 	"latam"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"En el menú principal"
+			"#RP_Preparing"		"Preparando {#RP_Details}"
+			"#RP_Active"		"En progreso {#RP_Details}"
+			"#RP_Complete"		"Ronda terminada {#RP_Details}"
+			"#RP_Waiting"		"Esperando {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} en {%game:map_name%} | %game:server_count%/%game:server_limit% jugadores"
 		}
 	}
 	"vietnamese"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"Ở Menu Chính"
+			"#RP_Preparing"		"Đang chuẩn bị {#RP_Details}"
+			"#RP_Active"		"Đang diễn ra {#RP_Details}"
+			"#RP_Complete"		"Vòng kết thúc {#RP_Details}"
+			"#RP_Waiting"		"Đang chờ {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} trên {%game:map_name%} | %game:server_count%/%game:server_limit% người chơi"
 		}
 	}
 	"indonesian"
 	{
 		"tokens"
 		{
+			"#RP_MainMenu"		"Di Menu Utama"
+			"#RP_Preparing"		"Mempersiapkan {#RP_Details}"
+			"#RP_Active"		"Sedang Berlangsung {#RP_Details}"
+			"#RP_Complete"		"Ronde Selesai {#RP_Details}"
+			"#RP_Waiting"		"Menunggu {#RP_Details}"
+			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
+			"#Status"			"{#RP_%presence%} di {%game:map_name%} | %game:server_count%/%game:server_limit% pemain"
 		}
 	}
 }

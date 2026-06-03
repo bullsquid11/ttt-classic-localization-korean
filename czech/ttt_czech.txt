@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
   "Language"    "czech"
   "Tokens"
@@ -431,7 +431,7 @@
     "TTT_IDLE_WARNING"                            "Varování: zdá se, že jste neaktivní/AFK. Pokud neprojevíte aktivitu, budete přeřazeni mezi pozorovatele!"
     "TTT_SPEC_MODE_WARNING_LINE_1"                "Jste v režimu pozorovatele a nebudete se objevovat na začátku nových kol."
     "TTT_SPEC_MODE_WARNING_LINE_2"                "Pro vypnutí tohoto režimu přejděte do Možnosti -> Multiplayer -> Pokročilé a zrušte zaškrtnutí možnosti 'Režim pouze pro pozorovatele'."
-    // "TTT_DISABLE_SPEC_MODE"                       "Zakázat režim Diváka"
+    "TTT_DISABLE_SPEC_MODE"                       "Zakázat režim Diváka"
     // Tips, shown at bottom of screen to spectators
     "TTT_TIPS_PANEL_TITLE"                        "Tipy"
     "TTT_TIPS_PANEL_TIP"                          "Tip:"
@@ -786,6 +786,8 @@
     "TTT_EQUIP_SWITCH"                            "Přepnout na vybavení"
     "TTT_UNARMED"                                 "Schovat zbraň"
     // Client settings
+    "TTT_LANGUAGE"                                "Jazyk (Restartuje hru)"
+    "TTT_LANGUAGE_STEAM"                          "Použít jazyk ze služby Steam"
     "TTT_HUD_HISTORY_TIME"                        "Doba zobrazení sebraného vybavení/nábojů"
     "TTT_DNA_AUTO_SCAN"                           "Automatické skenování DNA"
     "TTT_SET_RADAR_AUTO"                          "Automatické skenování radarem"

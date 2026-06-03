@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
     "Language"          "german"
     "Tokens"
@@ -256,6 +256,7 @@
         "GameUI_TextureFiltering"                           "Texturfilterung aktivieren"
         "GameUI_DetailTextures"                             "Detaillierte Texturen"
         "GameUI_LowLatency"                                 "Geringere Eingabelatenz"
+        "GameUI_UseShaders"                                 "Verwenden Sie Shader"
         "GameUI_WidescreenFOV"                              "Breitbild-FOV zulassen"
         "GameUI_MainMenu_Hint_NewGame"                      "Starten Sie ein neues Spiel im Einzelspielermodus."
         "GameUI_MainMenu_Hint_Configuration"                "Ändern Sie Spieleinstellungen und konfigurieren Sie die Steuerung."
