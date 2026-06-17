@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "信念の飛躍"
         "BA_HAZARD"                                 "ハザードコース"
         "BA_OUTRO"                                  "救出"
+        "Muted"                                     "%s をミュートしました。"
+        "Unmuted"                                   "%s のミュートを解除しました。"
+        "No_longer_hear_that_player"                "このプレイヤーの音声は聞こえなくなります。"
     }
 }

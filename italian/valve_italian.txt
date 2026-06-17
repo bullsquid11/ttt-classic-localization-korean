@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "UN SALTO DI FEDE"
         "BA_HAZARD"                                 "CORSO DI PERICOLO"
         "BA_OUTRO"                                  "LIBERAZIONE"
+        "Muted"                                     "Hai silenziato %s."
+        "Unmuted"                                   "Hai riattivato l'audio di %s."
+        "No_longer_hear_that_player"                "Non sentirai più parlare questo giocatore."
     }
 }

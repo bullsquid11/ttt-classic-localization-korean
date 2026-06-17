@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "A LEAP OF FAITH"
         "BA_HAZARD"                                 "HAZARD COURSE"
         "BA_OUTRO"                                  "DELIVERANCE"
+        "Muted"                                     "You have muted %s."
+        "Unmuted"                                   "You have unmuted %s."
+        "No_longer_hear_that_player"                "You will no longer hear that player speak."
     }
 }

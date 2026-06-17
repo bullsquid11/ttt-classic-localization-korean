@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "SKOK VÍRY"
         "BA_HAZARD"                                 "VÝCVIKOVÝ KURZ"
         "BA_OUTRO"                                  "VYSVOBOZENÍ"
+        "Muted"                                     "Ztlumili jste %s."
+        "Unmuted"                                   "Zrušili jste ztlumení %s."
+        "No_longer_hear_that_player"                "Tohoto hráče už neuslyšíte mluvit."
     }
 }

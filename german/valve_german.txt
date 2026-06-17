@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "Ein Vertrauenssprung"
         "BA_HAZARD"                                 "GEFAHRENKURS"
         "BA_OUTRO"                                  "BEFREIUNG"
+        "Muted"                                     "Du hast %s stummgeschaltet."
+        "Unmuted"                                   "Du hast die Stummschaltung für %s aufgehoben."
+        "No_longer_hear_that_player"                "Du wirst diesen Spieler nicht mehr sprechen hören."
     }
 }

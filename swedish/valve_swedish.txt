@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "ETT TROSPROTT"
         "BA_HAZARD"                                 "RISKKURS"
         "BA_OUTRO"                                  "LEVERING"
+        "Muted"                                     "Du har tystat %s."
+        "Unmuted"                                   "Du har slagit på ljudet för %s."
+        "No_longer_hear_that_player"                "Du kommer inte längre att höra den spelaren prata."
     }
 }

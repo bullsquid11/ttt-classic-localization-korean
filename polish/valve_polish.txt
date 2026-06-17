@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "SKOK WIARY"
         "BA_HAZARD"                                 "KURS ZAGROŻEŃ"
         "BA_OUTRO"                                  "DOSTAWA"
+        "Muted"                                     "Wyciszono gracza %s."
+        "Unmuted"                                   "Cofnięto wyciszenie gracza %s."
+        "No_longer_hear_that_player"                "Nie będziesz już słyszeć tego gracza."
     }
 }

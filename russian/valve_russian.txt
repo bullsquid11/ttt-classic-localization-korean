@@ -321,5 +321,8 @@
         "[english]Valve_x_4"                                "x4"
         "Valve_ViewDemoStatus"                              "%s1  %s2  %s3"
         "[english]Valve_ViewDemoStatus"                     "%s1  %s2  %s3"
+        "Muted"                                             "Вы заглушили %s."
+        "Unmuted"                                           "Вы включили звук для %s."
+        "No_longer_hear_that_player"                        "Вы больше не будете слышать этого игрока."
     }
 }

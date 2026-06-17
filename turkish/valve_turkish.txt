@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "BİR İNANÇ Sıçrayışı"
         "BA_HAZARD"                                 "TEHLİKE DERSİ"
         "BA_OUTRO"                                  "TESLİMAT"
+        "Muted"                                     "%s adlı oyuncuyu susturdunuz."
+        "Unmuted"                                   "%s adlı oyuncunun sesini açtınız."
+        "No_longer_hear_that_player"                "Artık bu oyuncunun konuştuğunu duymayacaksınız."
     }
 }

@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "信仰的飛躍"
         "BA_HAZARD"                                 "危險課程"
         "BA_OUTRO"                                  "解救"
+        "Muted"                                     "您已將 %s 靜音。"
+        "Unmuted"                                   "您已取消對 %s 的靜音。"
+        "No_longer_hear_that_player"                "您將不再聽到該玩家說話。"
     }
 }

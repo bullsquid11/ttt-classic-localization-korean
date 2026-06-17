@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "UN ACT DE FOI"
         "BA_HAZARD"                                 "PARCOURS DANGEREUX"
         "BA_OUTRO"                                  "DÉLIVRANCE"
+        "Muted"                                     "Vous avez mis %s en sourdine."
+        "Unmuted"                                   "Vous avez réactivé le son de %s."
+        "No_longer_hear_that_player"                "Vous n'entendrez plus ce joueur parler."
     }
 }

@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "СТРИБОК ВІРИ"
         "BA_HAZARD"                                 "ХІД НЕБЕЗПЕКИ"
         "BA_OUTRO"                                  "ВИЗВОЛЕННЯ"
+        "Muted"                                     "Ви заглушили %s."
+        "Unmuted"                                   "Ви ввімкнули звук для %s."
+        "No_longer_hear_that_player"                "Ви більше не чутимете цього гравця."
     }
 }

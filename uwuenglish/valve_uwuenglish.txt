@@ -198,5 +198,8 @@
         "BA_TELEPORTTITLE"                          "A WEAP OF FAITH"
         "BA_HAZARD"                                 "HAZAWD COUWSE"
         "BA_OUTRO"                                  "DEWIVEWANCE"
+        "Muted"                                     "You have muted %s."
+        "Unmuted"                                   "You have unmuted %s."
+        "No_longer_hear_that_player"                "You wiww nyo wongew heaw that pwayew speak."
     }
 }
