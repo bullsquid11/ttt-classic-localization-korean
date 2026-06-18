@@ -426,7 +426,7 @@
     "TTT_INFO_POPUP_TRAITOR"                      "Sei un TRADITORE! Collabora con i compagni traditori per uccidere gli altri.\nMa fai attenzione, o il tuo tradimento potrebbe essere scoperto...\nQuesti sono i tuoi compagni:\n%s\nPremi %s per ricevere il tuo equipaggiamento!"
     // Various other text
     "TTT_NAME_CANT_CHANGE"                        "Non puoi cambiare il tuo nome mentre il round è attivo. Verrà modificato al termine del round corrente."
-    "TTT_IDLE_POPUP"                              "Sei stato inattivo per %d secondi e sei stato spostato nella modalità solo Spettatori. Mentre sei in questa modalità, non spawnerai all'inizio del round.\nPuoi rimuovere la modalità solo Spettatori in ogni momento premendo %s e deselezionando la casella nella finestra Impostazioni. Puoi anche scegliere di disabilitarla ora."
+    "TTT_IDLE_POPUP"                              "Sei stato inattivo per %d secondi e sei stato spostato nella modalità solo Spettatori. Mentre sei in questa modalità, non spawnerai all'inizio del round."
     "TTT_IDLE_POPUP_CLOSE"                        "Non fare niente"
     "TTT_IDLE_POPUP_OFF"                          "Disabilita modalità solo spettatori ora"
     "TTT_IDLE_WARNING"                            "Attenzione: sembri essere inattivo/AFK, e verrai spostato negli Spettatori almeno che tu non ti muova!"

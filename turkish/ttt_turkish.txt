@@ -426,7 +426,7 @@
     "TTT_INFO_POPUP_TRAITOR"                      "Sen bir HAİNSİN! Diğerlerini öldürmek için diğer hainlerle birlikte çalışın.\nKendine iyi bak, yoksa hainliğin ortaya çıkabilir...\nBunlar senin yoldaşların\n%s.\n Ekipmanınızı almak için %s tuşuna basın!"
     // Various other text
     "TTT_NAME_CANT_CHANGE"                        "Raunt aktifken adını değiştiremezsin. Mevcut raunt sona erdiğinde değişecek."
-    "TTT_IDLE_POPUP"                              "%d saniye boyunca boştaydın ve sonuç olarak yalnızca İzleyici moduna geçtin. Bu moddayken, yeni bir raunt başladığında oyuna başlamayacaksın.\n%s tuşuna basarak ve Ayarlar sekmesindeki kutunun işaretini kaldırarak istediğiniz zaman İzleyici modunu değiştirebilirsiniz. Ayrıca şu anda devre dışı bırakmayı da seçebilirsiniz."
+    "TTT_IDLE_POPUP"                              "%d saniye boyunca boştaydın ve sonuç olarak yalnızca İzleyici moduna geçtin. Bu moddayken, yeni bir raunt başladığında oyuna başlamayacaksın."
     "TTT_IDLE_POPUP_CLOSE"                        "Hiçbir şey yapma"
     "TTT_IDLE_POPUP_OFF"                          "İzleyici modunu şimdi devre dışı bırak"
     "TTT_IDLE_WARNING"                            "Uyarı: Boşta gibi görünüyorsunuz ve etkinlik göstermediğiniz sürece izlemeye alınacaksınız!"

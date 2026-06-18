@@ -426,7 +426,7 @@
         "TTT_INFO_POPUP_TRAITOR"                            "Vous êtes un TRAITRE ! Travaillez avec vos amis traitres pour tuer tout le monde.\nMais soyez prudent, ou votre trahison pourrait être révélée au grand jour...\n\nVoici vos camarades :\n%s\n\nAppuyez sur %s pour recevoir votre équipement !"
         // Various other text
         "TTT_NAME_CANT_CHANGE"                              "Vous ne pouvez pas changer de nom pendant le round. Il sera modifié à la fin du round."
-        "TTT_IDLE_POPUP"                                    "Vous avez été absent %d secondes et avez donc été mis dans le mode Spectateur uniquement. Dans ce mode, vous n'apparaîtrez pas quand un nouveau round démarre.\n\nVous pouvez basculer hors de ce mode quand vous voulez en appuyant sur %s et en décochant la case correspondante dans l'onglet Options. Vous pouvez aussi choisir de le désactiver maintenant."
+        "TTT_IDLE_POPUP"                                    "Vous avez été absent %d secondes et avez donc été mis dans le mode Spectateur uniquement. Dans ce mode, vous n'apparaîtrez pas quand un nouveau round démarre."
         "TTT_IDLE_POPUP_CLOSE"                              "Ne rien faire"
         "TTT_IDLE_POPUP_OFF"                                "Désactiver le mode maintenant"
         "TTT_IDLE_WARNING"                                  "Attention : on dirait que vous n'êtes plus là, vous allez être déplacé vers les spectateurs à moins de montrer de l'activité !"

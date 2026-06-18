@@ -426,7 +426,7 @@
     "TTT_INFO_POPUP_TRAITOR"                      "Du bist VERRÄTER! Arbeite mit deinen Verräter Kollegen um alle anderen Terroristen zu töten.\nAber sei vorsichtig, damit dein Verrat nicht aufgedeckt wird...\nDas sind deine Kollegen:\n%s\nDrücke %s um den Verräter Shop zu öffnen!"
     // Various other text
     "TTT_NAME_CANT_CHANGE"                        "Dein Name kann nicht geändert werden, solange die Runde aktiv ist. Er wird geändert, sobald die aktuelle Runde endet."
-    "TTT_IDLE_POPUP"                              "Du warst für %d Sekunden untätig und wurdest in den Zuschauer-Modus gesetzt. Währenddessen ist es dir nicht möglich, an einer neuen Runde teilzunehmen.\nDu kannst den Zuschauer-Modus ausschalten, indem du %s drückst und den Haken in den Einstellungen entfernst. Du kannst ihn aber auch jetzt ausschalten."
+    "TTT_IDLE_POPUP"                              "Du warst für %d Sekunden untätig und wurdest in den Zuschauer-Modus gesetzt. Währenddessen ist es dir nicht möglich, an einer neuen Runde teilzunehmen."
     "TTT_IDLE_POPUP_CLOSE"                        "Nichts tun"
     "TTT_IDLE_POPUP_OFF"                          "Deaktiviere Zuschauer-Modus"
     "TTT_IDLE_WARNING"                            "Warnung: Du scheinst AFK zu sein und wirst zum Zuschauer, außer du zeigst Aktivität!"

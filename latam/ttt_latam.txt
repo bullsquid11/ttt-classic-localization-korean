@@ -426,7 +426,7 @@
     "TTT_INFO_POPUP_TRAITOR"                      "¡Eres un TRAIDOR! Colabora con tus aliados para acabar con todos.\nPero ten cuidado tu traición será descubierta...\nTus camaradas son:\n%s\n¡Pulsa %s para recibir tu equipamiento!"
     // Various other text
     "TTT_NAME_CANT_CHANGE"                        "No puedes cambiar tu nombre mientras la ronda esté activa. Se cambiará cuando finalice la actual."
-    "TTT_IDLE_POPUP"                              "Has estado ausente durante %d segundos y has sido movido al modo sólo espectador. Mientras estás en este modo no te regenerarás en cada ronda.\nPuedes activar o desactivar el modo sólo espectador en cualquier momento con %s y desmarcando la opción en la pestaña Ajustes. Además puedes elegir desactivarla ahora mismo."
+    "TTT_IDLE_POPUP"                              "Has estado ausente durante %d segundos y has sido movido al modo sólo espectador. Mientras estás en este modo no te regenerarás en cada ronda."
     "TTT_IDLE_POPUP_CLOSE"                        "No hacer nada"
     "TTT_IDLE_POPUP_OFF"                          "Desactivar el modo ahora"
     "TTT_IDLE_WARNING"                            "Aviso: parece que estás ausente, ¡serás movido a espectador si no muestras actividad!"

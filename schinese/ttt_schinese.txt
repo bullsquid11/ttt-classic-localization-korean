@@ -426,7 +426,8 @@
     "TTT_INFO_POPUP_TRAITOR"                      "\n你是位叛徒！和其他叛徒合作杀害其他所有人，以获得胜利。\n但请小心，你的身份可能会暴露...\n这些是你的同伴们:\n%s \n按 %s 取得装备！"
     // Various other text
     "TTT_NAME_CANT_CHANGE"                        "当回合进行时，您不能更改您的姓名。当当前回合结束时，它将发生变化。"
-    "TTT_IDLE_POPUP"                              "你挂机了 %d 秒，所以被转往观察者模式。\n当你位于此模式时，将不会在回合开始时重生。\n你可在任何时间取消观察者模式，按下 %s 并在选单取消勾选\"\"TTT_IDLE_POPUP_CLOSE\"                        \"什么也不做"
+    "TTT_IDLE_POPUP"                              "你挂机了 %d 秒，所以被转往观察者模式。当你位于此模式时，将不会在回合开始时重生。"
+    "TTT_IDLE_POPUP_CLOSE"                        "什么也不做"
     "TTT_IDLE_POPUP_OFF"                          "立刻关闭观察者模式"
     "TTT_IDLE_WARNING"                            "警告：你已挂机一段时间，如果接下来没有动作将进入观察者模式。"
     "TTT_SPEC_MODE_WARNING_LINE_1"                "您处于观众模式，并且在回合开始时不会生成。"

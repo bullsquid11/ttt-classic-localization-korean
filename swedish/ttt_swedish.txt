@@ -426,7 +426,7 @@
     "TTT_INFO_POPUP_TRAITOR"                      "Du är en FÖRRÄDARE! Arbeta med dina förrädarkamrater för att döda alla andra.\nMen var försiktig, annars kan ditt förräderi upptäckas...\nDetta är dina kamrater:\n%s\nTryck %s för att få dina verktyg!"
     // Various other text
     "TTT_NAME_CANT_CHANGE"                        "Du kan inte ändra ditt namn medan omgången är aktiv. Det kommer att ändras när den aktuella omgången är slut."
-    "TTT_IDLE_POPUP"                              "Du var borta i %d sekunder och blev därför förflyttad till Åskådar-läge. Så länge du är i detta läge kommer du inte att kunna spela när en ny runda börjar.\nDu kan slå av/på Åskådar-läge när som helst genom att trycka på %s och bocka av lådan i inställningsfliken. Du kan även välja att stänga av det nu medsamma."
+    "TTT_IDLE_POPUP"                              "Du var borta i %d sekunder och blev därför förflyttad till Åskådar-läge. Så länge du är i detta läge kommer du inte att kunna spela när en ny runda börjar."
     "TTT_IDLE_POPUP_CLOSE"                        "Gör ingenting"
     "TTT_IDLE_POPUP_OFF"                          "Stäng av Åskådar-läge nu"
     "TTT_IDLE_WARNING"                            "Varning: du verkar vara borta, och kommer att bli tvingad att åskåda om du inte gör någonting!"
