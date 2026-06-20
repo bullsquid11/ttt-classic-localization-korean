@@ -84,7 +84,7 @@
         "Spec_Replay"                               "Ralenti instantané"
         "Spec_Auto"                                 "Auto"
         "Spec_Time"                                 "Temps"
-        "Spec_Map"                                  "Carte : %s1"
+        "Spec_Map"                                  "Carte : %s"
         "Spectators"                                "Spectateurs"
         "Spec_PlayerItem_Health"                    "%s1 (%s2)"
         "Spec_PlayerItem"                           "%s1"

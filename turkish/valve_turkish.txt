@@ -84,7 +84,7 @@
         "Spec_Replay"                               "Anında Tekrar Oynatma"
         "Spec_Auto"                                 "Otomatik"
         "Spec_Time"                                 "Zaman"
-        "Spec_Map"                                  "Harita:%s1"
+        "Spec_Map"                                  "Harita: %s"
         "Spectators"                                "Seyirciler"
         "Spec_PlayerItem_Health"                    "%s1(%s2)"
         "Spec_PlayerItem"                           "%s1"

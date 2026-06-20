@@ -84,7 +84,7 @@
         "Spec_Replay"                               "Sofortige Wiederholung"
         "Spec_Auto"                                 "Auto"
         "Spec_Time"                                 "Zeit"
-        "Spec_Map"                                  "Karte: %s1"
+        "Spec_Map"                                  "Karte: %s"
         "Spectators"                                "Zuschauer"
         "Spec_PlayerItem_Health"                    "%s1 (%s2)"
         "Spec_PlayerItem"                           "%s1"

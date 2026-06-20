@@ -84,7 +84,7 @@
         "Spec_Replay"                               "即時重播"
         "Spec_Auto"                                 "自動"
         "Spec_Time"                                 "時間"
-        "Spec_Map"                                  "地圖：%s1"
+        "Spec_Map"                                  "地圖：%s"
         "Spectators"                                "觀戰者"
         "Spec_PlayerItem_Health"                    "%s1 (%s2)"
         "Spec_PlayerItem"                           "%s1"

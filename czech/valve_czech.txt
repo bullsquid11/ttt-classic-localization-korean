@@ -84,7 +84,7 @@
         "Spec_Replay"                               "Okamžitý záznam"
         "Spec_Auto"                                 "Automaticky"
         "Spec_Time"                                 "Čas"
-        "Spec_Map"                                  "Mapa: %s1"
+        "Spec_Map"                                  "Mapa: %s"
         "Spectators"                                "Diváci"
         "Spec_PlayerItem_Health"                    "%s1 (%s2)"
         "Spec_PlayerItem"                           "%s1"

@@ -84,7 +84,7 @@
         "Spec_Replay"                               "Instant Replay"
         "Spec_Auto"                                 "Auto"
         "Spec_Time"                                 "Time"
-        "Spec_Map"                                  "Map: %s1"
+        "Spec_Map"                                  "Map: %s"
         "Spectators"                                "Spectators"
         "Spec_PlayerItem_Health"                    "%s1 (%s2)"
         "Spec_PlayerItem"                           "%s1"

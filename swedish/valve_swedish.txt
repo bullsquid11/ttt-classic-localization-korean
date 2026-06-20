@@ -84,7 +84,7 @@
         "Spec_Replay"                               "Direkt repris"
         "Spec_Auto"                                 "Auto"
         "Spec_Time"                                 "Tid"
-        "Spec_Map"                                  "Karta: %s1"
+        "Spec_Map"                                  "Karta: %s"
         "Spectators"                                "Åskådare"
         "Spec_PlayerItem_Health"                    "%s1 (%s2)"
         "Spec_PlayerItem"                           "%s1"

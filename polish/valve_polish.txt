@@ -84,7 +84,7 @@
         "Spec_Replay"                               "Natychmiastowa powtórka"
         "Spec_Auto"                                 "Automatycznie"
         "Spec_Time"                                 "Czas"
-        "Spec_Map"                                  "Mapa: %s1"
+        "Spec_Map"                                  "Mapa: %s"
         "Spectators"                                "Obserwatorzy"
         "Spec_PlayerItem_Health"                    "%s1 (%s2)"
         "Spec_PlayerItem"                           "%s1"

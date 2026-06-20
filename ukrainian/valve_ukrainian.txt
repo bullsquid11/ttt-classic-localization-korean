@@ -84,7 +84,7 @@
         "Spec_Replay"                               "Миттєвий повтор"
         "Spec_Auto"                                 "Авто"
         "Spec_Time"                                 "час"
-        "Spec_Map"                                  "Карта:%s1"
+        "Spec_Map"                                  "Карта: %s"
         "Spectators"                                "Глядачі"
         "Spec_PlayerItem_Health"                    "%s1(%s2)"
         "Spec_PlayerItem"                           "%s1"

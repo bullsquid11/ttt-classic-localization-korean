@@ -84,7 +84,7 @@
         "Spec_Replay"                               "インスタントリプレイ"
         "Spec_Auto"                                 "自動"
         "Spec_Time"                                 "時間"
-        "Spec_Map"                                  "マップ: %s1"
+        "Spec_Map"                                  "マップ: %s"
         "Spectators"                                "観戦者"
         "Spec_PlayerItem_Health"                    "%s1 (%s2)"
         "Spec_PlayerItem"                           "%s1"

@@ -84,7 +84,7 @@
         "Spec_Replay"                               "即时回放"
         "Spec_Auto"                                 "自动"
         "Spec_Time"                                 "时间"
-        "Spec_Map"                                  "地图：%s1"
+        "Spec_Map"                                  "地图：%s"
         "Spectators"                                "观察者"
         "Spec_PlayerItem_Health"                    "%s1 (%s2)"
         "Spec_PlayerItem"                           "%s1"
