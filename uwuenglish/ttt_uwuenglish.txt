@@ -855,7 +855,7 @@
     "TTT_STATS_ALL_STATS"                         "Aww Stats"
     "TTT_STATS_ROUNDS_AND_WINS"                   "Wounds && Wins"
     "TTT_STATS_CREDITS_AND_ECONOMY"               "Cwedits && Econyomy"
-    "TTT_STATS_EQUIPMENT_AND_C4"                  "Equipment && C4"
+    "TTT_STATS_EQUIPMENT_AND_C4"                  "Equipment"
     "TTT_STATS_CHICKENS"                          "Chickens"
     "TTT_STATS_GAMEPLAY"                          "Gamepway"
     "TTT_STATS_WEAPONS"                           "Weapons"

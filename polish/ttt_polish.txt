@@ -856,7 +856,7 @@
     "TTT_STATS_ALL_STATS"                         "Wszystkie statystyki"
     "TTT_STATS_ROUNDS_AND_WINS"                   "Rundy i zwycięstwa"
     "TTT_STATS_CREDITS_AND_ECONOMY"               "Kredyty i ekonomia"
-    "TTT_STATS_EQUIPMENT_AND_C4"                  "Sprzęt i& C4"
+    "TTT_STATS_EQUIPMENT_AND_C4"                  "Sprzęt"
     "TTT_STATS_CHICKENS"                          "Kurczaki"
     "TTT_STATS_GAMEPLAY"                          "Rozgrywka"
     "TTT_STATS_WEAPONS"                           "Broń"

@@ -856,7 +856,7 @@
     "TTT_STATS_ALL_STATS"                         "すべての統計"
     "TTT_STATS_ROUNDS_AND_WINS"                   "ラウンドと勝利"
     "TTT_STATS_CREDITS_AND_ECONOMY"               "クレジットと経済"
-    "TTT_STATS_EQUIPMENT_AND_C4"                  "装備とC4"
+    "TTT_STATS_EQUIPMENT_AND_C4"                  "装備"
     "TTT_STATS_CHICKENS"                          "ニワトリ"
     "TTT_STATS_GAMEPLAY"                          "ゲームプレイ"
     "TTT_STATS_WEAPONS"                           "武器"

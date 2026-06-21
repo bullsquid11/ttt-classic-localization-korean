@@ -856,7 +856,7 @@
     "TTT_STATS_ALL_STATS"                         "Všechny statistiky"
     "TTT_STATS_ROUNDS_AND_WINS"                   "Kola a výhry"
     "TTT_STATS_CREDITS_AND_ECONOMY"               "Kredity a ekonomika"
-    "TTT_STATS_EQUIPMENT_AND_C4"                  "Vybavení a C4"
+    "TTT_STATS_EQUIPMENT_AND_C4"                  "Vybavení"
     "TTT_STATS_CHICKENS"                          "Kuřata"
     "TTT_STATS_GAMEPLAY"                          "Hratelnost"
     "TTT_STATS_WEAPONS"                           "Zbraně"

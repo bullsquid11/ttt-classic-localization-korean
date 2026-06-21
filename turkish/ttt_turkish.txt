@@ -856,7 +856,7 @@
     "TTT_STATS_ALL_STATS"                         "Tüm İstatistikler"
     "TTT_STATS_ROUNDS_AND_WINS"                   "Rauntlar ve Galibiyetler"
     "TTT_STATS_CREDITS_AND_ECONOMY"               "Krediler ve Ekonomi"
-    "TTT_STATS_EQUIPMENT_AND_C4"                  "Ekipman ve C4"
+    "TTT_STATS_EQUIPMENT_AND_C4"                  "Ekipman"
     "TTT_STATS_CHICKENS"                          "Tavuklar"
     "TTT_STATS_GAMEPLAY"                          "Oynanış"
     "TTT_STATS_WEAPONS"                           "Silahlar"

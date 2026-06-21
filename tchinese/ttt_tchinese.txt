@@ -856,7 +856,7 @@
     "TTT_STATS_ALL_STATS"                         "所有統計數據"
     "TTT_STATS_ROUNDS_AND_WINS"                   "回合與勝利"
     "TTT_STATS_CREDITS_AND_ECONOMY"               "購買點數與經濟"
-    "TTT_STATS_EQUIPMENT_AND_C4"                  "裝備與 C4"
+    "TTT_STATS_EQUIPMENT_AND_C4"                  "裝備"
     "TTT_STATS_CHICKENS"                          "小雞"
     "TTT_STATS_GAMEPLAY"                          "遊戲性"
     "TTT_STATS_WEAPONS"                           "武器"

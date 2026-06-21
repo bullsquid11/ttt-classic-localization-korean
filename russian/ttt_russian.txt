@@ -856,7 +856,7 @@
     "TTT_STATS_ALL_STATS"                         "Вся статистика"
     "TTT_STATS_ROUNDS_AND_WINS"                   "Раунды и победы"
     "TTT_STATS_CREDITS_AND_ECONOMY"               "Кредиты и экономика"
-    "TTT_STATS_EQUIPMENT_AND_C4"                  "Снаряжение и С4"
+    "TTT_STATS_EQUIPMENT_AND_C4"                  "Снаряжение"
     "TTT_STATS_CHICKENS"                          "Курицы"
     "TTT_STATS_GAMEPLAY"                          "Игровой процесс"
     "TTT_STATS_WEAPONS"                           "Оружие"

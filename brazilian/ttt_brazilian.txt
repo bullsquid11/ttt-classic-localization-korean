@@ -856,7 +856,7 @@
         "TTT_STATS_ALL_STATS"                               "Todas as estatísticas"
         "TTT_STATS_ROUNDS_AND_WINS"                         "Rodadas && Vitórias"
         "TTT_STATS_CREDITS_AND_ECONOMY"                     "Créditos e economia"
-        "TTT_STATS_EQUIPMENT_AND_C4"                        "Equipamento e C4"
+        "TTT_STATS_EQUIPMENT_AND_C4"                        "Equipamento"
         "TTT_STATS_CHICKENS"                                "Galinhas"
         "TTT_STATS_GAMEPLAY"                                "Gameplay"
         "TTT_STATS_WEAPONS"                                 "Armas"

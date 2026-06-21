@@ -856,7 +856,7 @@
     "TTT_STATS_ALL_STATS"                         "All statistik"
     "TTT_STATS_ROUNDS_AND_WINS"                   "Ronder && Vinster"
     "TTT_STATS_CREDITS_AND_ECONOMY"               "Krediter && Ekonomi"
-    "TTT_STATS_EQUIPMENT_AND_C4"                  "Utrustning && C4"
+    "TTT_STATS_EQUIPMENT_AND_C4"                  "Utrustning"
     "TTT_STATS_CHICKENS"                          "Kycklingar"
     "TTT_STATS_GAMEPLAY"                          "Spelmekanik"
     "TTT_STATS_WEAPONS"                           "Vapen"
